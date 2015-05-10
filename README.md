@@ -1,14 +1,3 @@
-## A T E N T I O N
-Before assessing this assignment, please first set your current working directory to the current file location.
-
-E.g.:
-
-    setwd("C:/Users/Pedro/Documents/Coursera/R_Work/ExploratoryDA")
-
-The instructions I have followed are described bellow.
-___
-
-
 ## Introduction
 
 This assignment uses data from
